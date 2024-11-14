@@ -3,3 +3,6 @@
 Initial commit by Ludo
 First version
 Test with --no-ff
+
+
+1 CEDRIC
