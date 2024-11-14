@@ -9,3 +9,4 @@ Test with --no-ff
 2 CEDRIC
 
 3 CED
+4 CED
