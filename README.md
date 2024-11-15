@@ -10,3 +10,5 @@ Test with --no-ff
 
 3 CED
 4 CED
+
+10 CEDRIC
