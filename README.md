@@ -10,3 +10,6 @@ Test with --no-ff
 
 3 CED
 4 CED
+
+11 CONFLIT LUDO
+20 CED
